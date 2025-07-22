@@ -1,0 +1,1 @@
+For this project we continued to demonstrate our knowledge of React by creating an app that displays current movies using TMDB's API. Within the app the user also has the ability to search for a specific movie, and save movies within their favorites.   
